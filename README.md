@@ -1,4 +1,3 @@
-# Laboratory_works_Java
 ## Tasks description
 1. Find factorial by cycle.
 2. Create class "Book" with needed properties. Test its work by another class "BookTest" which consists static method "main(String[] args)".
