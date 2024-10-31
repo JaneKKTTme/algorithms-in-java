@@ -1,6 +1,5 @@
 # Laboratory_works_Java
-In this repository you can find laboratory works which made by Jane Khomenko.
-Laboratory works:
+## Tasks description
 1. Find factorial by cycle.
 2. Create class "Book" with needed properties. Test its work by another class "BookTest" which consists static method "main(String[] args)".
 3. Create abstract class "Dish". Using inheritance realize variable type of dish with own properties. And test its work.
